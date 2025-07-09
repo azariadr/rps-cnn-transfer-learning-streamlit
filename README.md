@@ -1,4 +1,4 @@
-From Scratch to Streamlit: Building and Comparing CNN and Transfer Learning Models for a Rock-Paper-Scissors Game
+# From Scratch to Streamlit: Building and Comparing CNN and Transfer Learning Models for a Rock-Paper-Scissors Game
 
 # Overview
 This project explores the fascinating world of deep learning by building and comparing two different approaches to classify hand gestures for a Rock-Paper-Scissors game: a Convolutional Neural Network (CNN) built from scratch and a Transfer Learning model using MobileNetV2. The journey culminates in deploying the best-performing model as an interactive web application using Streamlit.
